@@ -6,7 +6,7 @@
 
 Use this template to bootstrap the creation of a JavaScript action.:rocket:
 
-This template includes compilication support, tests, a validation workflow, publishing, and versioning guidance.  
+This template includes compilation support, tests, a validation workflow, publishing, and versioning guidance.  
 
 If you are new, there's also a simpler introduction.  See the [Hello World JavaScript Action](https://github.com/actions/hello-world-javascript-action)
 
@@ -86,7 +86,7 @@ See the [versioning documentation](https://github.com/actions/toolkit/blob/maste
 
 ## Validate
 
-You can now validate the action by referencing `./` in a workflow in your repo (see [test.yml](.github/workflows/test.yml)])
+You can now validate the action by referencing `./` in a workflow in your repo (see [test.yml](.github/workflows/test.yml))
 
 ```yaml
 uses: ./
